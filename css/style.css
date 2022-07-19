@@ -30,19 +30,6 @@ html {
   scroll-behavior: smooth;
 }
 
-html::-webkit-scrollbar {
-  width: 0.8rem;
-}
-
-html::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-html::-webkit-scrollbar-thumb {
-  background: #fff;
-  border-radius: 5rem;
-}
-
 body {
   background: var(--bg-colors);
 }
@@ -584,6 +571,15 @@ section {
 
 .footer__foot p {
   font-size: 12px;
+}
+
+.footer__link{
+  color: var(--reserve-color);
+}
+
+.footer__link:hover{
+  color: var(--second-color);
+  transition: color .5s;
 }
 
 /* media queries  */
