@@ -1,8 +1,10 @@
 
-![Logo](https://ferpogas51.github.io/mezcaleria/images/logo-1.png)
+![Logo](https://ferpogas51.github.io/mezcaleria/images/logo-1.jpg)
 
 
 # Mezcalería central de Agaves
+
+[Website](http://ferpogas51.github.io/mezcaleria/ "Website")
 
 Diseño web en código para una mezcalería que pidio el prototipo de su página web con: 
 
